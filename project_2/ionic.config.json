@@ -1,6 +1,8 @@
 {
   "name": "project_2",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "b6478b82"
 }
